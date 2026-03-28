@@ -28,7 +28,7 @@ Module:2
 
 Platforms Used:GitHub, LinkedIn, Kaggle
 
-Activity: Set up professional profiles and GitHub README.
+Activity: Set up professional profiles and GitHub .
 
 screenshorts : task-2-portfolio.png
 
