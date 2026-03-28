@@ -1,3 +1,5 @@
+Reflection Notes - 
+
 Through this task, I learned why a professional online presence matters.
 
 Setting up sites like GitHub and LinkedIn showed me how students can share their skills, projects, and wins online.
