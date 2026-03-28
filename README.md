@@ -2,7 +2,7 @@
 
 Name: Aliza Kidwai
 
-Registration No.: 25MIB10020 
+Registration Number : 25MIB10020 
 
 
 # Project Overview
