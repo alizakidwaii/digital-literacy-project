@@ -12,8 +12,10 @@ Module Summaries & Links
 
 # Task 1 – Digital Literacy Awareness Infographic
 Module:1
-Activity:Created a one-page infographic explaining digital literacy, useful digital tools, safe internet practices, professional online presence/
+Activity:Created a one-page infographic explaining digital literacy, useful digital tools, safe internet practices, professional online presence
+
 Tool Used: Canva
+
 screenshort : task-1-presentation.png
 
 # Task 2 – Student Digital Portfolio
