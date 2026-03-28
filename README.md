@@ -56,7 +56,7 @@ Activity: Drafted professional emails to professor and internship coordinator.
 
 Checklist: Social media Do’s and Don’ts 
 
-Screenshots/Files: Email 1.docx , social-media-checklist.md.docx
+Screenshots/Files: email_etiquittes.pdf , social-media-checklist.txt
 
 Reflection:Learned proper email structure, tone, and responsible social media habits.
 
@@ -68,7 +68,7 @@ Case Study: UPI Payment Fraud targeting college students
 
 Checklist: Stay Safe Online (8 tips, including UPI safety)
 
-Files: task-5-cybercrime/casestudy.md, prevention-checklist.md  
+Files: task-5-cybercrime/casestudy.pdf, prevention-checklist.txt 
 
 Reflection: Learned about common online frauds and will never share OTPs or PINs with anyone.  
 
